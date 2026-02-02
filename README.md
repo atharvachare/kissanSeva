@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+🌾 Crop Disease Detection – Mobile AI for Early Agricultural Diagnosis
 
-This contains everything you need to run your app locally.
+📌 Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/1_hFpbA5S-Tjvu01_lejrRk4_CGLvi3KQ
+Crop Disease Detection is a mobile-first AI-based project aimed at assisting farmers in identifying crop diseases using images captured from smartphones. The application is designed to work in offline or low-connectivity environments and focuses on providing early diagnosis and localized treatment guidance.
 
-## Run Locally
+⸻
 
-**Prerequisites:**  Node.js
+🎯 Problem Statement
 
+Crop diseases cause major agricultural losses due to delayed diagnosis and lack of expert access in rural areas. This project explores how artificial intelligence can be used to support farmers with fast, accessible, and affordable digital solutions.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+⸻
+
+🚀 Features
+	•	📸 Image-based crop disease detection (concept-based)
+	•	📱 Mobile-first and farmer-friendly design
+	•	🌐 Supports offline / low-internet usage scenarios
+	•	🌱 Provides crop-specific treatment recommendations
+	•	🧠 AI-driven approach for early diagnosis
+
+⸻
+
+🛠️ Tech Stack (Proposed / Partial Implementation)
+	•	Python
+	•	Machine Learning (Conceptual)
+	•	Computer Vision (Conceptual)
+	•	Mobile / Web Application Framework
+
+⚠️ Note: This repository does not include any dataset or pre-trained AI model.
+The focus of this project is on system design, workflow, and application architecture.
+
+⸻
+
+📈 Objective
+
+To design a scalable and accessible AI-driven system that can help farmers detect crop diseases early and make informed decisions, reducing crop loss and improving agricultural productivity.
+
+⸻
+
+📂 Project Status
+
+🚧 Prototype / Hackathon Submission
+Model training and dataset integration can be added in future versions.
+
+⸻
+
+🤝 Contributors
+	•	Atharva Achare
+	•	Atharva Achare
+
